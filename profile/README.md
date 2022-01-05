@@ -1,5 +1,5 @@
 # Level Up - Professional Development Program
-![logo](Level-Up-logo.svg)
+![logo](./profile/Level-Up-logo.svg)
 
 # What is Level Up?
 
